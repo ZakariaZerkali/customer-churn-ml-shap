@@ -1,0 +1,13 @@
+# .gitignore
+venv/
+env/
+.conda/
+*.egg-info/
+__pycache__/
+.ipynb_checkpoints/
+.idea/
+.vscode/
+.DS_Store
+
+# optional: ignore large data
+# data/
